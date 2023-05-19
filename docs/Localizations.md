@@ -6,7 +6,7 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Localizations.md v1.0.0.0
 Raptor Aero Espacial (RAE)
-created: 
+created: 19 May 2023
 updated: 
 
 TEMPLATE: Localizations.md v1.1.9.0
