@@ -6,7 +6,7 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.0.0.0
 Raptor Aero Espacial (RAE)
-created:
+created: 19 May 2023
 updated:
 
 TEMPLATE: ManualInstallation.md v1.1.9.1
@@ -29,57 +29,54 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `MOD-NAME` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `RAE` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/MOD-NAME`
-* Extract the package's `MOD-NAME/` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/MOD-NAME` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/RAE/RaptorAeroEspacial`
+* Extract the package's `RAE/` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/RAE` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/MOD-NAME`
+  * you should end up with `<KSP_ROOT>/GameData/RAE/RaptorAeroEspacial`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/MOD-NAME`
+  * Delete `<KSP_ROOT>/GameData/RAE/RaptorAeroEspacial`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/MOD-NAME`
+  * you should end up with `<KSP_ROOT>/GameData/RAE/RaptorAeroEspacial`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [MOD-NAME]
-      + [Agencies]
-        ...
-      + [Compatibility]
-        ...
-      + [Config]
-        ...
-      + [Contracts]
-        ...
-      + [Flags]
-        ...
-      + [Localization]
-        ...
-      + [Parts]
-        ...
-      + [Plugins]
-        ...
+    + [RAE]
+      + [RAE]
+        + [Agencies]
+          ...
+        + [Compatibility]
+          ...
+        + [Config]
+          ...
+        + [Flags]
+          ...
+        + [Localization]
+          ...
+        + [Plugins]
+          ...
       * #.#.#.#.htm
       * Attributions.htm
-      * ManualInstallation.htm
       * changelog.md
-      * License.txt
+      * GPL-2.0.txt
+      * ManualInstallation.htm
+      * RAE.version
       * readme.htm
-      * MOD-NAME.version
+      ...
     ...
-    * [ModularManagement][MM] or [Module Manager][omm]
     * ModuleManager.ConfigCache
   * KSP.log
   ...
@@ -87,12 +84,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* [SimpleConstruction! (SCON)][SC]
-* [ModularManagement][MM] or [Module Manager][omm]
-
-[SC]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
-[MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
-[omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+* none
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
