@@ -17,24 +17,13 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 # [Raptor Aero Espacial (RAE)][CURSFG:url]
 
-*blurb*
+Agency, flags and common files for [Raptor Aero Espacial (RAE)][CURSFG:shd] addons
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`AUTH-NAME`][auth-link] with [`AUTH-NAME:1`][auth-link:1]
+## By [`zer0Kerbal`][zer0Kerbal], inspired by [`RaptorHunterMz`][auth-link]
 
-adopted with *express* permission and brought to you by *KerbSimpleCo*
+created by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/RaptorAeroEspacial/master/img/HeroLogo_1920x1920.png" alt="RaptorAeroEspacial Hero" width="50%" height="50%">
-
-<details>
-  <summary><b>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/87102-*/">AUTH-NAME</a></b></summary>
-  <p>I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).</p>
-</details>
-
-### Preamble by [`AUTH-NAME`][auth-link]
-
-> Tempor duis sit sunt pariatur sit quis nisi ex velit ipsum elit. Lorem enim nisi officia cillum duis aliquip nostrud excepteur aliqua quis quis quis. Nostrud occaecat mollit culpa irure fugiat culpa dolor qui excepteur mollit sint deserunt in. Id excepteur non cupidatat aute proident laborum non mollit excepteur et exercitation nostrud consectetur enim. Elit sit tempor in eiusmod fugiat commodo amet dolore in amet anim sint. Amet deserunt ullamco mollit. Sint magna culpa anim minim ea et ullamco id aute mollit.
-> Magna proident veniam est nulla velit sint aliquip est cillum fugiat duis adipisicing. Nostrud aliqua pariatur mollit irure eiusmod ipsum mollit incididunt ea labore aliqua occaecat sint voluptate magna. Tempor exercitation ea est veniam voluptate veniam reprehenderit cupidatat elit. Anim duis ad officia occaecat mollit quis. Deserunt culpa quis velit sit laborum cupidatat dolore est velit id aute dolore cillum qui est. Nulla nisi elit esse ea aliquip irure irure ea. Incididunt in esse ullamco mollit incididunt deserunt aliqua aliquip duis fugiat dolor irure mollit. Mollit do proident sint cupidatat ut nostrud ut cillum cillum ut sit cupidatat.
-> Veniam excepteur ex laboris mollit consequat quis dolore eiusmod tempor officia exercitation exercitation adipisicing proident. Proident fugiat officia mollit ipsum ipsum aliqua nostrud laboris in laboris deserunt nostrud Lorem. Sunt deserunt voluptate aliqua nostrud nostrud occaecat. Cillum sint et fugiat ullamco sint ea quis eu. Irure adipisicing aute amet officia irure commodo aliquip elit. Fugiat tempor qui nisi duis aute eiusmod est velit ut amet velit ea. Qui do aute sit do est sint.
+<img src="https://raw.githubusercontent.com/zer0Kerbal/RaptorAeroEspacial/master/img/HeroLogo.png" alt="RaptorAeroEspacial Hero" width="50%" height="50%">
 
 ### See more
 
@@ -67,9 +56,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Supports
 
 * [ModularManagement (MM)][MM] or [Module Manager][omm]
-* [Blizzy's Toolbar][blizzy]
-* [Toolbar Controller][tbc]
-* [Click Through Blocker][ctb]
 
 ### Suggests
 
@@ -84,21 +70,14 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [Keridian Dynamics (KDVA)][KDVA]
 * [MoarKerbals (MOAR)][MOAR]
 * [Not So SimpleConstructon! (NSSC)][NSSC]
-* [Nuke Tiny Parts (NTP)][NUK]
 * [OhScrap! (OHS)][OHS]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [OScience Laboratories (OSL)][OSL]
 * [Papa Kerballini's Pizza (PIZZA)][PIZZA]
-* [Pirates of the Keribbean][PoK]
 * [Precise Maneuver (PM)][PM]
 * [Pteron (MSRV)][MSRV]
-* [Rusty Panels][RP] by Sooner266
-* [Rusty Star Rockets (RSR)][RSR]
-* [Rusty Textures for Procedural Parts][RTP]
 * [ScrapYard (SYD)][SYD]
-* [Shielded PicoPort (SPP)][SPP]
 * [SimpleConstruction! (SCON)][SCON]
-* [SimpleLife! (LIFE)][LIFE]
 * [SimpleLogistics! (SLOG)][SLOG]
 * [SimpleNotes! (NOTE)][NOTES]
 * [Solar Science (SOL)][SOL]
@@ -119,12 +98,12 @@ agency
 
 ### Credits and Special Thanks
 
->* [AUTH-NAME][auth-link] for inspiring this glorious addon!
+>* [RaptorHunterMz][auth-link] for inspiring this glorious addon!
 >* see [Attributions][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Original Author (ROOT) (0): [`AUTH-NAME`][auth-link]
+#### Original Author (ROOT) (0): [`RaptorHunterMz`][auth-link]
 
 > Forum: [Thread][0:thd] - Download: [Dropbox][0:dld] - Source: [Dropbox][0:src]  
 > License: [![License][0:shd]][0:url] ![License][0:log]
@@ -149,7 +128,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/RaptorAeroEspacial/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/RaptorAeroEspacial/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/RaptorAeroEspacial/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "RaptorAeroEspacial Forum Thread"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "Raptor Aero Espacial (RAE))"
 [issue]: https://github.com/zer0Kerbal/RaptorAeroEspacial/issues "Issues"
 [notic]: https://zer0kerbal.github.io/RaptorAeroEspacial/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/RaptorAeroEspacial "GitHub Pages"
@@ -189,7 +168,6 @@ Comment, click, like, share, up-vote, subscribe
 [IPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/208975-*/ "Inflatable PicoPort (IPP)"
 [KAMP]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel "Adjustable Mod Panel (KAMP)"
 [KDVA]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "Keridian Dynamics (KDVA)"
-[LIFE]: https://spacedock.info/mod/766/SimpleLife  "SimpleLife! (LIFE)"
 [MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
 [MSRV]: https://www.curseforge.com/kerbal/Pteron "Pteron (MSRV)"
 [NOTES]: https://www.curseforge.com/kerbal/ksp-mods/Notes "SimpleNotes! (NOTES)"
@@ -199,17 +177,11 @@ Comment, click, like, share, up-vote, subscribe
 [OSL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/ "OScience Laboratories (OSL)"
 [PIZZA]: https://www.curseforge.com/kerbal/ksp-mods/Pizza "Papa Kerballini's Pizza (PIZZA)"
 [PM]: https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver "Precise Maneuver (PM)"
-[PODS]: https://forum.kerbalspaceprogram.com/index.php?/topic/187495-*/ "Transparent Pods (PODS)"
-[PoK]: https://spacedock.info/mod/903 "Pirates of the Keribbean"
-[RP]: https://spacedock.info/mod/1106 "Rusty Panels"
-[RSR]: https://forum.kerbalspaceprogram.com/index.php?/topic/209405-*/ "Rusty Star Shipyards"
-[RTP]: https://forum.kerbalspaceprogram.com/index.php?/topic/126355-*/ "Rusty Star Textures"
 [SCON]: https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction "SimpleConstruction! (SCON)"
 [SDS]: https://forum.kerbalspaceprogram.com/index.php?/topic/191921-*/ "Stork Delivery System (SDS)"
 [SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stack Inline Lights (SIL)"
 [SLOG]: https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics "SimpleLogistics! (SLOG)"
 [SOL]: https://www.curseforge.com/kerbal/ksp-mods/SolarScience "Solar Science (SOL)"
-[SPP]: https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*/ "Shielded PicoPort (SPP)"
 [SYD]: https://www.curseforge.com/kerbal/ksp-mods/ScrapYard "ScrapYard (SYD)"
 [MSI]: https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments "Mkerb Science Instruments (MSI)"
 [NFR]: https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers "Near Future Rovers (NFR)"
@@ -218,7 +190,7 @@ Comment, click, like, share, up-vote, subscribe
 [MM]: https://www.curseforge.com/kerbal/ksp-mods/ModularManagement "ModularManagement (MM)"
 [omm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 
-[AUTH-NAME]: https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "AUTH-NAME"
+[auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/126564-*/ "RaptorHunterMz"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 <!-- financial support -->
