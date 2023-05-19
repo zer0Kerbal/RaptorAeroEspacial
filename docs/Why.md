@@ -6,7 +6,7 @@ tags: fourty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Why.md  v1.0.0.0
 Raptor Aero Espacial (RAE)
-created:
+created: 19 May 2023
 updated:
 
 TEMPLATE: Why-not.md v1.1.1.0
