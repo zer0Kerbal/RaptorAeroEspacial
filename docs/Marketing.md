@@ -6,7 +6,7 @@ tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Marketing.md v1.0.0.0
 Raptor Aero Espacial (RAE)
-created: 
+created: 19 May 2023
 updated: 
 
 TEMPLATE: Marketing.md v1.0.3.0
