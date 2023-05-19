@@ -7,7 +7,7 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 <!--
 Notices.md v1.0.0.0
 Raptor Aero Espacial (RAE)
-created: 
+created: 19 May 2023
 updated: 
 
 TEMPLATE: Notices.md v1.0.2.0
@@ -25,8 +25,8 @@ based upon work by LisiasT -->
 
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
-* "MOD-NAME" is trademark of zer0Kerbal
-* "ABBV" is trademark of zer0Kerbal
+* "Raptor Aero Espacial (RAE)" is trademark of RaptorHunterMz and zer0Kerbal
+* "RAE" is trademark of RaptorHunterMz and zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * KerbSimpleCo is a trademark of zer0Kerbal
