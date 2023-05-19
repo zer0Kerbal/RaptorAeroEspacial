@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 <!--
 Attributions.md v1.0.0.0
 Raptor Aero Espacial (RAE)
-created: 
+created: 19 May 2023
 updated: 
 
 TEMPLATE: Attributions.md v1.0.9.0
@@ -28,8 +28,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/93697-*/"><img alt="dtobi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > DaMichel</a> for creating the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="DaMichel Ltd (KM)"> the DaMichel series of parts addons!</a></li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/81209-*/"><img alt="Bezzier" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/set_resources_17/84c1e40ea0e759e3f1505eb1788ddf3c_default_photo.png" width="50px" height="50px" > Bezzier</a> for picking up where DaMichel left off (Color Curves)</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/126564-*/"><img alt="RaptorHunterMz" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/pp.jpg.6c6a6328a467f67f41c3116bdc93d251.thumb.jpg.bff23c67200c2eda227362ac9f5eeebf.jpg" width="50px" height="50px" > RaptorHunterMz</a> for inspiring <a href="https://zer0kerbal.github.io/RaptorAeroEspacial/" alt="Raptor Aero Espacial (RAE)"> Raptor Aero Espacial (RAE) addon!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
